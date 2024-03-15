@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+.main{
+    border:2px solid black;
+    height: 500px;
+    width: 400px;
+    margin-left: 70px;
+}
+.heading{
+    height: 100px;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.use{
+    display: flex;
+}
+.navigation .inn{
+    width: 50px;
+}
+.thick .blue{
+    width: 30px;
+}
+.manu .inmanu{
+    transform: rotate(91deg);
+    width:50px;
+}
