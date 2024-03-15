@@ -9,24 +9,39 @@
     margin-left: 70px;
 }
 .heading{
-    height: 100px;
+    height: 60px;
     width:100%;
     display: flex;
-    justify-content: space-evenly;
 }
 .user{
     display: flex;
-    margin: px;
+    margin:10px;
+    padding-left:px;
 }
 .navigation .inn{
     width: 30px;
-    padding-top: 10px;
-    margin-right:90px ;
+    margin-top: 10px;
+    margin-right:80px;
+    margin-left: 30px;
 }
 .thick .blue{
     width: 30px;
 }
 .manu .inmanu{
     transform: rotate(90deg);
-    width:50px;
+    width:25px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.profilepicture .doley{
+    width: 50px;
+    border-radius: 50%;
+    border:2px solid rgb(232, 18, 54);
+}
+.userimage{
+    display:flex;
+    justify-content:space-evenly;
+}
+.usernameinbold{
+    font-weight: bold;
 }
