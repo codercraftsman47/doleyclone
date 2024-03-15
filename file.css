@@ -14,16 +14,19 @@
     display: flex;
     justify-content: space-evenly;
 }
-.use{
+.user{
     display: flex;
+    margin: px;
 }
 .navigation .inn{
-    width: 50px;
+    width: 30px;
+    padding-top: 10px;
+    margin-right:90px ;
 }
 .thick .blue{
     width: 30px;
 }
 .manu .inmanu{
-    transform: rotate(91deg);
+    transform: rotate(90deg);
     width:50px;
 }
