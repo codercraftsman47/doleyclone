@@ -44,4 +44,34 @@
 }
 .usernameinbold{
     font-weight: bold;
+    margin-left: 10px;
+}
+.discription{
+    margin-left:10px ;
+}
+.followmessageemail{
+    display: flex;
+    justify-content: space-evenly;
+}
+.follow{
+    width: 80px;
+    background-color: aquamarine;
+    border:2px solid black;
+    border-radius: 90dvb;
+}
+.divfollow{
+    margin-left: 15px;
+}
+.contact .contact1{
+    width: 20px;
+    border:2px solid black;
+}
+.divmassage{
+    width: 80px;
+    background-color: aquamarine;
+    border-radius: 90dvb;
+    border:2px solid black;
+}
+.divmassage{
+    margin-left:15px;
 }
