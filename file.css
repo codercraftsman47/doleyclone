@@ -4,7 +4,7 @@
     box-sizing: border-box;
 .main{
     border:2px solid black;
-    height: 500px;
+    height: 1000px;
     width: 400px;
     margin-left: 70px;
 }
@@ -49,13 +49,16 @@
 .discription{
     margin-left:10px ;
 }
+.linkofinstagram{
+    text-decoration: none;
+}
 .followmessageemail{
     display: flex;
     justify-content: space-evenly;
 }
 .follow{
     width: 80px;
-    background-color: aquamarine;
+    background-color: aliceblue;
     border:2px solid black;
     border-radius: 90dvb;
 }
@@ -64,14 +67,130 @@
 }
 .contact .contact1{
     width: 20px;
-    border:2px solid black;
 }
-.divmassage{
+.message{
     width: 80px;
-    background-color: aquamarine;
-    border-radius: 90dvb;
+    background-color: aliceblue;
+    border-radius:90dvb;
     border:2px solid black;
 }
 .divmassage{
     margin-left:15px;
+}
+.Email{
+    width:80px;
+    background-color:aliceblue;
+    border:2px solid black;
+    border-radius:90dvb;
+}
+}
+.diveamil{
+    margin-left: 15px;
+}
+.divcontact{
+    width: 50px;
+    background-color: aliceblue;
+}
+.contact1{
+    margin-left: 15px;
+}
+.manureeltag{
+    display: flex;
+    justify-content: space-evenly;
+}
+.manu .divmanu{
+    width: 25px;
+    border:2px solid black;
+}
+.divmanu{
+    margin-top: 10px;
+}
+.divreelimage .reelimage{
+    width:25px;
+}
+.reelimage{
+    margin-top: 10px;
+}
+.divtagimage .tagimage{
+    width:50px;
+}
+.firstline{
+    display: flex;
+    justify-content: space-evenly;
+}
+.divfirstimage .firstimage{
+    width: 130px;
+}
+.divsecondimage .secondimage{
+    width: 120px;
+}
+.divthirdimage .thirdimage{
+    width: 130px;
+}
+.secondline{
+    display: flex;
+    justify-content: space-evenly;
+}
+.divfourthimage .fourthimage{
+    width: 130px;
+    margin-top: 30px;
+}
+.divfifthimage .fifthimage{
+    width: 120px;
+    height: 160px;
+}
+.divsixthimage .sixthimage{
+    width: 130px;
+}
+.thirdline{
+    display: flex;
+    justify-content: space-evenly;
+}
+.divsevenimage .sevenimage{
+    width: 130px;
+}
+.diveightimage .eightimage{
+    width: 130px;
+    height: 166px;
+}
+.divnineimage .nineimage{
+    width: 130px;
+}
+.fourthline{
+    display: flex;
+    justify-content: space-evenly;
+}
+.divtenimage .tenimage{
+    width: 130px;
+}
+.divelevenimage .elevenimage{
+    width: 130px;
+    height: 130px;
+}
+.divtwelveimage .twelveimage{
+    width: 130px;
+    height: 130px;
+}
+.lastbar{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.divhomeimage .homeimage{
+    width: 40px;
+}
+.divsearchimage .searchimage{
+    width: 40px;
+}
+.divcreateimage .createimage{
+    width: 40px;
+}
+.divlastreelimage .lastreelimage{
+    width: 40px;
+    margin-top: px;
+}
+.divlastprofilepicture .lastprofilepicture{
+    width: 45px;
+    border: 2px solid rgb(204, 17, 48);
+    border-radius: 50dvb;
 }
